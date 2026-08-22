@@ -1,0 +1,55 @@
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\BulkInsertES.exe.config
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\BulkInsertES.exe
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\BulkInsertES.pdb
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\Nest.JsonNetSerializer.dll
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\Newtonsoft.Json.dll
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\System.Buffers.dll
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\System.Numerics.Vectors.dll
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\Nest.JsonNetSerializer.pdb
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\Nest.JsonNetSerializer.xml
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\Newtonsoft.Json.xml
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\System.Buffers.xml
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\System.Numerics.Vectors.xml
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\obj\Debug\Bulk Load ES.csproj.AssemblyReference.cache
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\obj\Debug\Bulk Load ES.csproj.CoreCompileInputs.cache
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\obj\Debug\BulkInsertES.exe
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\obj\Debug\BulkInsertES.pdb
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\System.Memory.xml
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\obj\Debug\Bulk Loa.6085E463.Up2Date
+C:\mehrdad\_projects\cgi_repo_master\winox\Bulk Load ES\bin\Debug\BulkInsertES.exe.config
+C:\mehrdad\_projects\cgi_repo_master\winox\Bulk Load ES\bin\Debug\BulkInsertES.exe
+C:\mehrdad\_projects\cgi_repo_master\winox\Bulk Load ES\bin\Debug\BulkInsertES.pdb
+C:\mehrdad\_projects\cgi_repo_master\winox\Bulk Load ES\bin\Debug\Nest.JsonNetSerializer.dll
+C:\mehrdad\_projects\cgi_repo_master\winox\Bulk Load ES\bin\Debug\Newtonsoft.Json.dll
+C:\mehrdad\_projects\cgi_repo_master\winox\Bulk Load ES\bin\Debug\System.Buffers.dll
+C:\mehrdad\_projects\cgi_repo_master\winox\Bulk Load ES\bin\Debug\System.Numerics.Vectors.dll
+C:\mehrdad\_projects\cgi_repo_master\winox\Bulk Load ES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\mehrdad\_projects\cgi_repo_master\winox\Bulk Load ES\bin\Debug\Nest.JsonNetSerializer.pdb
+C:\mehrdad\_projects\cgi_repo_master\winox\Bulk Load ES\bin\Debug\Nest.JsonNetSerializer.xml
+C:\mehrdad\_projects\cgi_repo_master\winox\Bulk Load ES\bin\Debug\Newtonsoft.Json.xml
+C:\mehrdad\_projects\cgi_repo_master\winox\Bulk Load ES\bin\Debug\System.Buffers.xml
+C:\mehrdad\_projects\cgi_repo_master\winox\Bulk Load ES\bin\Debug\System.Numerics.Vectors.xml
+C:\mehrdad\_projects\cgi_repo_master\winox\Bulk Load ES\obj\Debug\Bulk Load ES.csproj.AssemblyReference.cache
+C:\mehrdad\_projects\cgi_repo_master\winox\Bulk Load ES\obj\Debug\Bulk Load ES.csproj.CoreCompileInputs.cache
+C:\mehrdad\_projects\cgi_repo_master\winox\Bulk Load ES\obj\Debug\BulkInsertES.exe
+C:\mehrdad\_projects\cgi_repo_master\winox\Bulk Load ES\obj\Debug\BulkInsertES.pdb
+C:\mehrdad\_projects\cgi_repo_master\winox\Bulk Load ES\bin\Debug\System.Memory.dll
+C:\mehrdad\_projects\cgi_repo_master\winox\Bulk Load ES\obj\Debug\Bulk Load ES.csproj.CopyComplete
+C:\mehrdad\_projects\cgi_repo_master\Bulk LoadES2026\BulkLoadDev\Bulk Load ES\bin\Debug\BulkInsertES.exe.config
+C:\mehrdad\_projects\cgi_repo_master\Bulk LoadES2026\BulkLoadDev\Bulk Load ES\bin\Debug\BulkInsertES.exe
+C:\mehrdad\_projects\cgi_repo_master\Bulk LoadES2026\BulkLoadDev\Bulk Load ES\bin\Debug\BulkInsertES.pdb
+C:\mehrdad\_projects\cgi_repo_master\Bulk LoadES2026\BulkLoadDev\Bulk Load ES\bin\Debug\Nest.JsonNetSerializer.dll
+C:\mehrdad\_projects\cgi_repo_master\Bulk LoadES2026\BulkLoadDev\Bulk Load ES\bin\Debug\Newtonsoft.Json.dll
+C:\mehrdad\_projects\cgi_repo_master\Bulk LoadES2026\BulkLoadDev\Bulk Load ES\bin\Debug\Nest.JsonNetSerializer.pdb
+C:\mehrdad\_projects\cgi_repo_master\Bulk LoadES2026\BulkLoadDev\Bulk Load ES\bin\Debug\Nest.JsonNetSerializer.xml
+C:\mehrdad\_projects\cgi_repo_master\Bulk LoadES2026\BulkLoadDev\Bulk Load ES\bin\Debug\Newtonsoft.Json.xml
+C:\mehrdad\_projects\cgi_repo_master\Bulk LoadES2026\BulkLoadDev\Bulk Load ES\obj\Debug\Bulk Load ES.csproj.CoreCompileInputs.cache
+C:\mehrdad\_projects\cgi_repo_master\Bulk LoadES2026\BulkLoadDev\Bulk Load ES\obj\Debug\BulkInsertES.exe
+C:\mehrdad\_projects\cgi_repo_master\Bulk LoadES2026\BulkLoadDev\Bulk Load ES\obj\Debug\BulkInsertES.pdb
+C:\mehrdad\_projects\cgi_repo_master\Bulk LoadES2026\BulkLoadDev\Bulk Load ES\obj\Debug\Bulk Load ES.csproj.AssemblyReference.cache
+C:\mehrdad\_projects\cgi_repo_master\Bulk LoadES2026\BulkLoadDev\Bulk Load ES\bin\Debug\System.Buffers.dll
+C:\mehrdad\_projects\cgi_repo_master\Bulk LoadES2026\BulkLoadDev\Bulk Load ES\bin\Debug\System.Memory.dll
+C:\mehrdad\_projects\cgi_repo_master\Bulk LoadES2026\BulkLoadDev\Bulk Load ES\bin\Debug\System.Numerics.Vectors.dll
+C:\mehrdad\_projects\cgi_repo_master\Bulk LoadES2026\BulkLoadDev\Bulk Load ES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\mehrdad\_projects\cgi_repo_master\Bulk LoadES2026\BulkLoadDev\Bulk Load ES\obj\Debug\Bulk Load ES.csproj.CopyComplete

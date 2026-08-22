@@ -1,0 +1,57 @@
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\bin\Debug\ConsoleAppES.exe.config
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\bin\Debug\ConsoleAppES.exe
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\bin\Debug\ConsoleAppES.pdb
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\bin\Debug\Elasticsearch.Net.dll
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\bin\Debug\Nest.dll
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\bin\Debug\System.Buffers.dll
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\bin\Debug\System.Memory.dll
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\bin\Debug\System.Numerics.Vectors.dll
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\bin\Debug\Elasticsearch.Net.pdb
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\bin\Debug\Elasticsearch.Net.xml
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\bin\Debug\Nest.pdb
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\bin\Debug\Nest.xml
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\bin\Debug\System.Buffers.xml
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\bin\Debug\System.Memory.xml
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\bin\Debug\System.Numerics.Vectors.xml
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\obj\Debug\ConsoleAppES.csproj.AssemblyReference.cache
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\obj\Debug\ConsoleAppES.csproj.CoreCompileInputs.cache
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\obj\Debug\ConsoleAppES.csproj.CopyComplete
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\obj\Debug\ConsoleAppES.exe
+C:\mehrdad\2023_ox\test\es_app\ConsoleAppES\obj\Debug\ConsoleAppES.pdb
+E:\Projects\ConsoleAppES\bin\Debug\BulkInsertES.exe.config
+E:\Projects\ConsoleAppES\bin\Debug\BulkInsertES.exe
+E:\Projects\ConsoleAppES\bin\Debug\BulkInsertES.pdb
+E:\Projects\ConsoleAppES\bin\Debug\Nest.JsonNetSerializer.dll
+E:\Projects\ConsoleAppES\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\ConsoleAppES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projects\ConsoleAppES\bin\Debug\Nest.JsonNetSerializer.pdb
+E:\Projects\ConsoleAppES\bin\Debug\Nest.JsonNetSerializer.xml
+E:\Projects\ConsoleAppES\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\ConsoleAppES\obj\Debug\ConsoleAppES.csprojAssemblyReference.cache
+E:\Projects\ConsoleAppES\obj\Debug\ConsoleAppES.csproj.CoreCompileInputs.cache
+E:\Projects\ConsoleAppES\obj\Debug\ConsoleAppES.csproj.CopyComplete
+E:\Projects\ConsoleAppES\obj\Debug\BulkInsertES.exe
+E:\Projects\ConsoleAppES\obj\Debug\BulkInsertES.pdb
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\BulkInsertES.exe.config
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\BulkInsertES.exe
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\BulkInsertES.pdb
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\Nest.JsonNetSerializer.dll
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\Newtonsoft.Json.dll
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\System.Buffers.dll
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\System.Memory.dll
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\System.Numerics.Vectors.dll
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\Nest.JsonNetSerializer.pdb
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\Nest.JsonNetSerializer.xml
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\Newtonsoft.Json.xml
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\System.Buffers.xml
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\bin\Debug\System.Numerics.Vectors.xml
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\obj\Debug\ConsoleAppES.csproj.AssemblyReference.cache
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\obj\Debug\ConsoleAppES.csproj.CoreCompileInputs.cache
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\obj\Debug\ConsoleAppES.csproj.CopyComplete
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\obj\Debug\BulkInsertES.exe
+C:\mehrdad\_projects\winox_test\winox\Bulk Load ES\obj\Debug\BulkInsertES.pdb

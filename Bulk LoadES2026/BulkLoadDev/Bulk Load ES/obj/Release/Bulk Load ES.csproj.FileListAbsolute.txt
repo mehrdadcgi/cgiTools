@@ -1,0 +1,2 @@
+C:\mehrdad\_projects\cgi_repo_master\winox\Bulk Load ES\obj\Release\Bulk Load ES.csproj.AssemblyReference.cache
+C:\mehrdad\_projects\cgi_repo_master\winox\Bulk Load ES\obj\Release\Bulk Load ES.csproj.CoreCompileInputs.cache

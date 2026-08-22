@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\mehrdad\\_projects\\cgi_repo_master\\winox\\Bulk Load ES\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:1:0:{1D9E059A-9625-4CB1-A28D-4E44EC8349B4}|Bulk Load ES.csproj|c:\\mehrdad\\_projects\\cgi_repo_master\\winox\\bulk load es\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:1:0:{1D9E059A-9625-4CB1-A28D-4E44EC8349B4}|Bulk Load ES.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9E059A-9625-4CB1-A28D-4E44EC8349B4}|Bulk Load ES.csproj|c:\\mehrdad\\_projects\\cgi_repo_master\\winox\\bulk load es\\sancdb_to_es.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9E059A-9625-4CB1-A28D-4E44EC8349B4}|Bulk Load ES.csproj|solutionrelative:sancdb_to_es.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC43DED8-9F0C-4A4B-B5FE-A51B7A3EC31C}|..\\WinFormES\\WinFormES.csproj|c:\\mehrdad\\_projects\\cgi_repo_master\\winox\\winformes\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9E059A-9625-4CB1-A28D-4E44EC8349B4}|Bulk Load ES.csproj|C:\\mehrdad\\_projects\\cgi_repo_master\\winox\\Bulk Load ES\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9E059A-9625-4CB1-A28D-4E44EC8349B4}|Bulk Load ES.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9E059A-9625-4CB1-A28D-4E44EC8349B4}|Bulk Load ES.csproj|C:\\mehrdad\\_projects\\cgi_repo_master\\winox\\Bulk Load ES\\wikipep_to_es.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9E059A-9625-4CB1-A28D-4E44EC8349B4}|Bulk Load ES.csproj|solutionrelative:wikipep_to_es.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{1D9E059A-9625-4CB1-A28D-4E44EC8349B4}|Bulk Load ES.csproj|c:\\mehrdad\\_projects\\cgi_repo_master\\winox\\bulk load es\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:2:0:{1D9E059A-9625-4CB1-A28D-4E44EC8349B4}|Bulk Load ES.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\mehrdad\\_projects\\cgi_repo_master\\winox\\Bulk Load ES\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\mehrdad\\_projects\\cgi_repo_master\\winox\\Bulk Load ES\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-28T23:54:51.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sancDb_to_es.cs",
+              "DocumentMoniker": "C:\\mehrdad\\_projects\\cgi_repo_master\\winox\\Bulk Load ES\\sancDb_to_es.cs",
+              "RelativeDocumentMoniker": "sancDb_to_es.cs",
+              "ToolTip": "C:\\mehrdad\\_projects\\cgi_repo_master\\winox\\Bulk Load ES\\sancDb_to_es.cs",
+              "RelativeToolTip": "sancDb_to_es.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T23:55:08.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\mehrdad\\_projects\\cgi_repo_master\\winox\\WinFormES\\App.config",
+              "RelativeDocumentMoniker": "..\\WinFormES\\App.config",
+              "ToolTip": "C:\\mehrdad\\_projects\\cgi_repo_master\\winox\\WinFormES\\App.config",
+              "RelativeToolTip": "..\\WinFormES\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-25T12:29:29.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\mehrdad\\_projects\\cgi_repo_master\\winox\\Bulk Load ES\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\mehrdad\\_projects\\cgi_repo_master\\winox\\Bulk Load ES\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-24T21:51:32.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mehrdad\\_projects\\cgi_repo_master\\winox\\Bulk Load ES\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\mehrdad\\_projects\\cgi_repo_master\\winox\\Bulk Load ES\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T21:50:43.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "wikiPep_to_es.cs",
+              "DocumentMoniker": "C:\\mehrdad\\_projects\\cgi_repo_master\\winox\\Bulk Load ES\\wikiPep_to_es.cs",
+              "RelativeDocumentMoniker": "wikiPep_to_es.cs",
+              "ToolTip": "C:\\mehrdad\\_projects\\cgi_repo_master\\winox\\Bulk Load ES\\wikiPep_to_es.cs",
+              "RelativeToolTip": "wikiPep_to_es.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwBEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T02:01:02.773Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
